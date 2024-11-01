@@ -1,0 +1,26 @@
+body {margin:0; font:12px Arial, Helvetica, sans-serif}
+#wrapper {width:508px; margin:0 auto}
+h2 {font-size:14px; margin:15px 0}
+.link {cursor:pointer; color:#666}
+.link:hover {color:#000}
+.slider {position:relative;
+		 overflow:hidden; 
+		 border:2px solid #9ac1c9; 
+		 height:225px; 
+		 background:#eef5f6; 
+		 margin-bottom:20px}
+.slidercontent {position:absolute}
+/* .slidercontent .upper {border-bottom:1px solid #9ac1c9}*/
+.section {padding:10px}
+.newsslider {position:relative;
+             overflow:hidden; 
+             border:2px solid #9ac1c9; 
+             height:120px; 
+             width:200px; 
+             background:#eef5f6; 
+             margin-bottom:20px;
+             margin:0; 
+             font:12px Arial, Helvetica, sans-serif}
+.newsslidercontent {position:absolute}
+/* .newsslidercontent .upper {border-bottom:1px solid #9ac1c9} */
+.newssection {padding:10px; height:75px; margin-bottom: 17px;}
